@@ -1,0 +1,13 @@
+/*
+Theme Name:     nepalayak child theme
+Description:    nepalayak child theme
+Author:         Suraj
+Template:       Divi
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+<li class="et-social-icon et-social-instagram">
+<a href="https://instagram.com/nepalayak/" class="icon">
+<span><?php esc_html_e( 'Instagram', 'Divi' ); ?></span>
+</a>
+</li>
